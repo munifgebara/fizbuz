@@ -3,6 +3,8 @@ package fizbuz;
 public class Programa {
 
     public static void main(String[] args) {
+        
+        System.out.println ("Inciando FIZ BUZ");
 
         FizBuz fb = new FizBuz();
 
